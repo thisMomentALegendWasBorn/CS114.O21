@@ -19,7 +19,10 @@
 * **Ngày kết thúc**: 08/06/2024
 * **Năm học**: 2023-2024
 
-
+## GIỚI THIỆU BẢN THÂN
+* **MSSV** : 22521266
+* **HỌ VÀ TÊN** : TRẦN GIANG SỬ
+* **KHÓA** KHMT2022
 
 ## QUÁ TRÌNH MÔN HỌC
 
